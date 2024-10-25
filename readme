@@ -1,1 +1,9 @@
-Readme
+Task03
+This repositories contains the code belongs the Stanch assignment.
+
+The "lib/" folder contains :
+
+main.dart : the main file which runs after opening the application.
+LoginPage : the login page authenticates the valid user.
+HomePage : Landing page of the app
+DescriptionPage : It's one of the feature of the app.
